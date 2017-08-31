@@ -1,3 +1,0 @@
-number	city	population
-1	Moscow	12380664
-2	Helsinki	620982
