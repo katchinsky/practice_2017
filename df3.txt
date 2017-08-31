@@ -1,4 +1,0 @@
-number	city	population	mayor
-1	Moscow		Sobyanin
-2	Helsinki	620982	Vapaavuori
-10	Yaroslavl	608079	Slepcov
